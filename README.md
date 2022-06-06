@@ -28,3 +28,46 @@ Thanks for looking.
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+``` java
+if (codeWorking){
+            while (codeQuality < perfectCode){
+                codeQuality++;
+            }
+        }
+// - Vishwa Gaurav
+```
+
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+<details> <summary> GitHub Trophies 🏆</summary>
+ 
+![GitHub Medals](https://github-profile-trophy.vercel.app/?username=VishwaGauravIn&theme=gruvbox&no-bg=true&no-frame=true)
+</details>
+
+<!-- Dev in Progress -->
+<!-- ## Latest Tweet 🐦 
+> This tool (tweet-integration) is not availabe publically, made this for personal use
+ 
+[![](https://tweet-img-pi.vercel.app/api?username=VishwaGauravIn)](https://twitter.com/VishwaGauravIn)
+
+### Thanks for Visiting my GitHub Profile! -->
+
+---
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://github-visitor-counter-pro.vercel.app)
