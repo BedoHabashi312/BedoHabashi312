@@ -3,7 +3,7 @@
 
 If you are looking for someone to bring your ideas to life or for someone to be a part of your development team, feel free to contact me. Need to empower your business? Let’s work together! 🚀
 
-🌱 I’m currently learning React.js and React Native.
+🌱 I’m currently learning Flutter and Kotlin.
 
 Thanks for looking.
 
